@@ -1,3 +1,5 @@
 # README of my test repo.
 
 テスト用のやつ
+
+コンフリクトを起こすための変更
